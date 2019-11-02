@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SD&#39;s Devlog</title>
+    <link>http://soyongkim.github.io/sdstudy/</link>
+    <description>Recent content on SD&#39;s Devlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Nov 2019 16:23:34 +0900</lastBuildDate>
+    
+	<atom:link href="http://soyongkim.github.io/sdstudy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test1</title>
+      <link>http://soyongkim.github.io/sdstudy/post/test1/</link>
+      <pubDate>Sat, 02 Nov 2019 16:23:34 +0900</pubDate>
+      
+      <guid>http://soyongkim.github.io/sdstudy/post/test1/</guid>
+      <description> TEST Hello World!  hello nice to meet you! Bye  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://soyongkim.github.io/sdstudy/post/</loc>
+    <lastmod>2019-11-02T16:23:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://soyongkim.github.io/sdstudy/</loc>
+    <lastmod>2019-11-02T16:23:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://soyongkim.github.io/sdstudy/post/test1/</loc>
+    <lastmod>2019-11-02T16:23:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://soyongkim.github.io/sdstudy/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://soyongkim.github.io/sdstudy/tags/</loc>
+  </url>
+  
+</urlset>
